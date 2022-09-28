@@ -1,4 +1,6 @@
-## Introduction
+## Exploratory-Data-Analysis-assignment-1 for Yiwei YU (yi-wei.yu@st.com)
+
+R Source Codes are plot1.r, plot2.r, plot3.r, plot4.r.
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -95,20 +97,20 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot1 by plot1.r](plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot2 by plot2.r](plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot3 by plot3.r](plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot4 by plot4.r](plot4.png) 
 
